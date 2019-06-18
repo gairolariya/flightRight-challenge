@@ -1,0 +1,68 @@
+.App {
+  margin: auto 10px;
+}
+
+.App-header {
+  background-color: white;
+  margin: 0;
+  height: 50px;
+  padding: 10px;
+  width: auto;
+}
+
+h1 {
+	color: #000000;
+	text-decoration: none;
+	white-space: nowrap;
+	font-size: 25px;
+	line-height: 1.5;
+	text-align: center;
+	margin: 0;
+}
+
+.left-logo {
+  background-repeat: no-repeat;
+  width: 17.75em;
+  height: 4em;
+  background-size: 17.75em 4em;
+}
+
+.table-header {
+  margin: 0;
+}
+
+.table-header h1{
+  width: auto;
+  margin: 0;
+  font-size: 16px;
+  border-bottom: 2px solid black;
+  font-weight: bold;
+}
+
+.textArea-Editor{
+  width: 100%;
+  height: -webkit-fill-available;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  margin-top: 10px;
+}
+
+.dd-list{
+  margin: 10px 0 0 40px;
+  font-size: 16px;
+}
+
+.left-container {
+  width: 50%;
+  margin: 10px 40px 0;
+}
+.right-container {
+  border: 1px solid grey;
+  margin: 10px 40px 0 0;
+  width: 50%;
+  padding: 10px;
+}
